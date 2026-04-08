@@ -27,6 +27,8 @@ A modern and responsive Admin Dashboard built using React, Material UI, and vari
 ## 📸 Screenshots
 
 <img width="1905" height="906" alt="image" src="https://github.com/user-attachments/assets/e68867d2-2582-4c7d-b48f-3aa8dc47abcb" />
+<img width="1916" height="910" alt="image" src="https://github.com/user-attachments/assets/342e3eb3-7300-45c5-996d-9c8fb7dc3d9c" />
+
 
 
 ---
