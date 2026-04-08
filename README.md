@@ -42,7 +42,7 @@ A modern and responsive Admin Dashboard built using React, Material UI, and vari
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone [https://github.com/chayanhati/admin-dashboard.git](https://github.com/chayanhati/admin-dashboard.git)
+git clone https://github.com/chayanhati/admin-dashboard.git
 cd react-admin-dashboard
 npm install
 npm start
